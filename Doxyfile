@@ -1,0 +1,220 @@
+#! Doxygen configuration file for Image Color Processing Application
+#! This file configures Doxygen for generating documentation
+
+#---------------------------------------------------------------------------
+# Project related configuration options
+#---------------------------------------------------------------------------
+
+## Project name
+PROJECT_NAME = "Image Color Processing Application"
+
+## Project version
+PROJECT_NUMBER = 1.0
+
+## Project brief description
+PROJECT_BRIEF = "Multithreaded image processing application with GUI and sequential/parallel support"
+
+## Project logo
+# PROJECT_LOGO = 
+
+## Output directory for generated documentation
+OUTPUT_DIRECTORY = ./docs
+
+## Create documentation subdirectories by language
+CREATE_SUBDIRS = NO
+
+## Allow unicode in filenames
+ALLOW_UNICODE_NAMES = YES
+
+#---------------------------------------------------------------------------
+# Build related configuration options
+#---------------------------------------------------------------------------
+
+## Extract all entities (functions, classes, etc.)
+EXTRACT_ALL = YES
+
+## Extract private entities
+EXTRACT_PRIVATE = YES
+
+## Extract static members
+EXTRACT_STATIC = YES
+
+## Extract local classes
+EXTRACT_LOCAL_CLASSES = YES
+
+## Show source code in documentation
+SOURCE_BROWSER = YES
+
+## Number of lines to show from source
+LINES_PER_PAGE = 224
+
+#---------------------------------------------------------------------------
+# Configuration options related to the input files
+#---------------------------------------------------------------------------
+
+## Input source directories
+INPUT = ./src \
+        ./main.py \
+        ./console_launcher.py \
+        ./gui_launcher.py \
+        ./tests
+
+## Input file patterns
+FILE_PATTERNS = *.py
+
+## Recursive search for input files
+RECURSIVE = YES
+
+## Exclude patterns
+EXCLUDE_PATTERNS = */\.* \
+                   */__pycache__/* \
+                   */temp/* \
+                   */.git/*
+
+## Exclude directories
+EXCLUDE = ./benchmarks \
+          ./.venv \
+          ./__pycache__
+
+#---------------------------------------------------------------------------
+# Configuration options related to the output format
+#---------------------------------------------------------------------------
+
+## Generate HTML documentation
+GENERATE_HTML = YES
+
+## HTML output directory
+HTML_OUTPUT = html
+
+## HTML theme settings
+HTML_COLORSTYLE = AUTO
+HTML_COLORSTYLE_HUE = 220
+HTML_COLORSTYLE_SAT = 100
+HTML_COLORSTYLE_GAMMA = 80
+
+## Generate LaTeX documentation
+GENERATE_LATEX = NO
+
+## LaTeX output directory
+LATEX_OUTPUT = latex
+
+## Generate man pages
+GENERATE_MAN = NO
+
+## Generate RTF documentation
+GENERATE_RTF = NO
+
+## Generate XML documentation
+GENERATE_XML = NO
+
+#---------------------------------------------------------------------------
+# Configuration options related to search engine
+#---------------------------------------------------------------------------
+
+## Enable server-based search
+SEARCHENGINE = YES
+
+#---------------------------------------------------------------------------
+# Configuration options related to diagrams
+#---------------------------------------------------------------------------
+
+## Generate class diagrams
+CLASS_DIAGRAMS = YES
+
+## Use dot for diagram generation
+HAVE_DOT = YES
+
+## Dot executable path
+DOT_PATH = 
+
+## Generate dependency graphs
+DEPENDENCY_GRAPHS = YES
+
+## Generate inheritance diagrams
+INHERITANCE_GRAPHS = YES
+
+## Generate collaboration diagrams
+COLLABORATION_GRAPH = YES
+
+## Graph visualization tool
+GRAPH_TOOL = dot
+
+## Dot image format
+DOT_IMAGE_FORMAT = svg
+
+## Interactive SVG
+INTERACTIVE_SVG = YES
+
+#---------------------------------------------------------------------------
+# Configuration options related to the DOCSET output
+#---------------------------------------------------------------------------
+
+## Generate docset
+GENERATE_DOCSET = NO
+
+#---------------------------------------------------------------------------
+# Language and encoding
+#---------------------------------------------------------------------------
+
+## Input encoding
+INPUT_ENCODING = UTF-8
+
+## Language for documentation
+OUTPUT_LANGUAGE = English
+
+#---------------------------------------------------------------------------
+# Dot related options
+#---------------------------------------------------------------------------
+
+## Maximum dot graph width in pixels
+MAX_DOT_GRAPH_WIDTH = 1024
+
+## Maximum dot graph height in pixels
+MAX_DOT_GRAPH_HEIGHT = 1024
+
+#---------------------------------------------------------------------------
+# Configuration options for the alphabetical index
+#---------------------------------------------------------------------------
+
+## Generate alphabetical index
+ALPHABETICAL_INDEX = YES
+
+## Use columns for alphabetical index
+COLS_IN_ALPHA_INDEX = 5
+
+#---------------------------------------------------------------------------
+# Configuration options related to the tag file input
+#---------------------------------------------------------------------------
+
+## Tag files to load
+# TAGFILES = 
+
+#---------------------------------------------------------------------------
+# Configuration options related to warning and progress messages
+#---------------------------------------------------------------------------
+
+## Enable warning messages
+WARNINGS = YES
+
+## Treat warnings as errors
+WARN_AS_ERROR = NO
+
+## Warning format
+WARN_FORMAT = "$file:$line: $text"
+
+#---------------------------------------------------------------------------
+# Configuration examples
+#---------------------------------------------------------------------------
+
+# Doxygen will parse the following:
+# - All Python files in src/ directory recursively
+# - Main application files (main.py, console_launcher.py, gui_launcher.py)
+# - All test files in tests/ directory
+#
+# Generated documentation will include:
+# - Class hierarchies and relationships
+# - Function/method documentation
+# - Module/package documentation
+# - Cross-references and dependencies
+# - Source code with syntax highlighting
+# - Inheritance and collaboration diagrams

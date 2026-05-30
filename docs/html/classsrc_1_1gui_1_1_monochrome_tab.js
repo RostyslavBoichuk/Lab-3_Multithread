@@ -1,0 +1,28 @@
+var classsrc_1_1gui_1_1_monochrome_tab =
+[
+    [ "__init__", "classsrc_1_1gui_1_1_monochrome_tab.html#aed3304f8a6ed811f705fa1c48acd3a2a", null ],
+    [ "compare", "classsrc_1_1gui_1_1_monochrome_tab.html#a7f6d7fcf37bbb59532161dc5fec64537", null ],
+    [ "export_image", "classsrc_1_1gui_1_1_monochrome_tab.html#a3ed89339d3ad56074b4dee421417436c", null ],
+    [ "init_ui", "classsrc_1_1gui_1_1_monochrome_tab.html#ac62434020642ef0b65d8685967737c80", null ],
+    [ "load_image", "classsrc_1_1gui_1_1_monochrome_tab.html#a3db71c02648688188d94679d0f3b5c9a", null ],
+    [ "on_comparison_result", "classsrc_1_1gui_1_1_monochrome_tab.html#a894538a2e46fc60d38ad67650a131625", null ],
+    [ "on_error", "classsrc_1_1gui_1_1_monochrome_tab.html#a5260395552c4fc4458594016b484f0c2", null ],
+    [ "on_result", "classsrc_1_1gui_1_1_monochrome_tab.html#a79b50b7cbe97a99cf2a211bf3110acd2", null ],
+    [ "process_parallel", "classsrc_1_1gui_1_1_monochrome_tab.html#a472fb3186e36e3858204a9fbdb91101e", null ],
+    [ "process_sequential", "classsrc_1_1gui_1_1_monochrome_tab.html#aa0a1dbcb11ddf0ba80c21becc297ae0b", null ],
+    [ "compare", "classsrc_1_1gui_1_1_monochrome_tab.html#a041b977c13119247cb2ad27f9b6f477c", null ],
+    [ "current_image", "classsrc_1_1gui_1_1_monochrome_tab.html#a698cc1579b2f8a784f3985e068704f6a", null ],
+    [ "current_thread", "classsrc_1_1gui_1_1_monochrome_tab.html#a1529df70a0ccb21b91832633e0c5b925", null ],
+    [ "export_image", "classsrc_1_1gui_1_1_monochrome_tab.html#af6473cddc154d463498e16277afae52f", null ],
+    [ "image_viewer", "classsrc_1_1gui_1_1_monochrome_tab.html#a86cbc46cd6e116602c1f94b1775d6a56", null ],
+    [ "load_image", "classsrc_1_1gui_1_1_monochrome_tab.html#a7795b542486e02fd84be3124208b6a48", null ],
+    [ "method_combo", "classsrc_1_1gui_1_1_monochrome_tab.html#aae09334707236d3fd7526bff8abad89f", null ],
+    [ "on_comparison_result", "classsrc_1_1gui_1_1_monochrome_tab.html#a98cea08c69bfa29dc85e76a5d594d4ff", null ],
+    [ "on_error", "classsrc_1_1gui_1_1_monochrome_tab.html#a352bb4a6c1e3ff80ddd176d8e733a5b6", null ],
+    [ "on_result", "classsrc_1_1gui_1_1_monochrome_tab.html#a56e3eb559dad98ebdabf0fa2ce1dfd91", null ],
+    [ "process_parallel", "classsrc_1_1gui_1_1_monochrome_tab.html#a566322ade3a679be548b6efbfff06775", null ],
+    [ "process_sequential", "classsrc_1_1gui_1_1_monochrome_tab.html#a8e752a23a3969a6f82323d2e97849392", null ],
+    [ "processed_image", "classsrc_1_1gui_1_1_monochrome_tab.html#afd175eee52d549f24c9e141e6197d663", null ],
+    [ "progress", "classsrc_1_1gui_1_1_monochrome_tab.html#a8b24d74e3dbb19f45c116a745544b70b", null ],
+    [ "results_text", "classsrc_1_1gui_1_1_monochrome_tab.html#a8bae57a02a49135b851aa0524389a8ef", null ]
+];
