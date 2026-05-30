@@ -1,0 +1,77 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,1133,140,1158"/>
+<area shape="rect" id="Node000001" href="$classtests_1_1test__gui__thread__safety_1_1GUIThreadSafetyTestBase.html" title="Base class for GUI thread safety tests." alt="" coords="207,197,448,237"/>
+<area shape="poly" id="edge17_Node000000_Node000001" title=" " alt="" coords="71,1119,71,945,75,820,82,683,96,547,117,422,130,366,146,318,165,278,186,248,204,232,208,237,190,251,169,281,151,320,135,368,122,423,101,548,88,684,80,820,76,945,76,1119"/>
+<area shape="rect" id="Node000009" href="$classtests_1_1test__image__base_1_1TestImageBase.html" title="Test cases for ImageBase class." alt="" coords="228,261,427,301"/>
+<area shape="poly" id="edge25_Node000000_Node000009" title=" " alt="" coords="71,1119,73,957,78,840,86,714,100,588,121,472,149,377,166,340,186,312,205,296,227,286,229,291,208,301,190,315,171,342,154,379,126,473,105,589,92,714,83,841,78,957,76,1119"/>
+<area shape="rect" id="Node000010" href="$classtests_1_1test__image__base_1_1TestImageBaseEdgeCases.html" title=" " alt="" coords="228,325,427,365"/>
+<area shape="poly" id="edge26_Node000000_Node000010" title=" " alt="" coords="71,1119,75,967,90,744,104,628,124,522,151,435,168,401,186,375,205,360,227,350,229,355,208,365,190,379,172,404,156,437,130,524,110,629,96,744,81,967,77,1119"/>
+<area shape="rect" id="Node000011" href="$classtests_1_1test__image__base_1_1TestImageFormat.html" title="Test cases for ImageFormat enumeration." alt="" coords="228,389,427,429"/>
+<area shape="poly" id="edge27_Node000000_Node000011" title=" " alt="" coords="72,1119,77,978,94,774,109,669,128,573,154,494,169,463,186,439,205,424,227,415,229,419,208,429,190,443,173,466,159,496,133,574,114,670,99,775,83,979,77,1119"/>
+<area shape="rect" id="Node000012" href="$classtests_1_1test__image__utils_1_1TestAdjustHue.html" title=" " alt="" coords="229,453,425,493"/>
+<area shape="poly" id="edge28_Node000000_Node000012" title=" " alt="" coords="72,1119,80,989,98,805,113,710,132,623,156,552,170,525,186,503,206,488,228,478,230,483,208,493,190,507,175,527,161,554,137,625,118,711,104,805,85,990,78,1119"/>
+<area shape="rect" id="Node000013" href="$classtests_1_1test__image__utils_1_1TestConvertToMonochrome.html" title="Test cases for monochrome conversion." alt="" coords="229,517,425,557"/>
+<area shape="poly" id="edge29_Node000000_Node000013" title=" " alt="" coords="73,1119,82,1001,102,835,117,751,136,674,159,611,172,586,186,567,206,552,228,542,230,547,208,557,190,571,176,589,164,613,141,676,122,752,108,836,88,1001,78,1119"/>
+<area shape="rect" id="Node000014" href="$classtests_1_1test__image__utils_1_1TestHueClamp.html" title="Test cases for hue shift clamping." alt="" coords="229,581,425,621"/>
+<area shape="poly" id="edge30_Node000000_Node000014" title=" " alt="" coords="74,1118,85,1012,107,866,122,792,140,725,161,669,186,632,206,617,228,607,230,612,208,621,190,635,166,672,145,726,127,793,112,867,90,1013,79,1119"/>
+<area shape="rect" id="Node000015" href="$classtests_1_1test__image__utils_1_1TestImageUtilsEdgeCases.html" title=" " alt="" coords="229,645,425,685"/>
+<area shape="poly" id="edge31_Node000000_Node000015" title=" " alt="" coords="75,1118,88,1024,111,897,126,833,144,775,164,728,186,695,206,681,228,671,230,676,209,685,190,699,168,730,149,777,131,835,116,899,93,1025,80,1119"/>
+<area shape="rect" id="Node000016" href="$classtests_1_1test__image__utils_1_1TestSupportedMethods.html" title="Test cases for supported monochrome methods." alt="" coords="229,709,425,749"/>
+<area shape="poly" id="edge32_Node000000_Node000016" title=" " alt="" coords="71,1119,74,1047,89,950,103,898,124,848,151,801,186,759,206,745,228,736,230,740,209,750,190,763,155,804,128,850,108,900,94,951,79,1048,76,1119"/>
+<area shape="rect" id="Node000017" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageClone.html" title=" " alt="" coords="233,773,422,813"/>
+<area shape="poly" id="edge33_Node000000_Node000017" title=" " alt="" coords="73,1119,80,1058,97,978,112,936,131,895,156,857,186,823,208,809,232,799,234,804,210,814,190,827,160,860,136,897,117,938,102,980,85,1059,78,1119"/>
+<area shape="rect" id="Node000018" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageConvertFormat.html" title=" " alt="" coords="208,837,447,877"/>
+<area shape="poly" id="edge34_Node000000_Node000018" title=" " alt="" coords="75,1119,86,1069,106,1006,139,942,161,913,186,887,206,874,209,879,190,891,165,916,143,945,111,1008,91,1070,80,1120"/>
+<area shape="rect" id="Node000019" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageGaussianBlur.html" title=" " alt="" coords="214,901,441,941"/>
+<area shape="poly" id="edge35_Node000000_Node000019" title=" " alt="" coords="79,1119,94,1081,116,1036,147,990,186,951,212,937,215,941,190,955,151,993,121,1038,99,1083,84,1121"/>
+<area shape="rect" id="Node000020" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageInitialization.html" title="Test cases for OpenCVImage initialization." alt="" coords="216,965,439,1005"/>
+<area shape="poly" id="edge36_Node000000_Node000020" title=" " alt="" coords="87,1119,127,1066,155,1038,187,1015,215,1002,217,1007,189,1020,159,1042,131,1070,91,1122"/>
+<area shape="rect" id="Node000021" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageLoad.html" title="Test cases for OpenCVImage load functionality." alt="" coords="233,1029,422,1069"/>
+<area shape="poly" id="edge37_Node000000_Node000021" title=" " alt="" coords="103,1123,142,1100,187,1079,232,1065,233,1070,189,1084,145,1105,106,1127"/>
+<area shape="rect" id="Node000022" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageResize.html" title=" " alt="" coords="233,1093,422,1133"/>
+<area shape="poly" id="edge38_Node000000_Node000022" title=" " alt="" coords="153,1133,232,1123,233,1128,154,1138"/>
+<area shape="rect" id="Node000023" href="$classtests_1_1test__opencv__image_1_1TestOpenCVImageSave.html" title=" " alt="" coords="233,1157,422,1197"/>
+<area shape="poly" id="edge39_Node000000_Node000023" title=" " alt="" coords="154,1153,233,1163,232,1168,153,1158"/>
+<area shape="rect" id="Node000024" href="$classtests_1_1test__parallel_1_1TestHueAdjusterParAdjustBatch.html" title=" " alt="" coords="227,1221,427,1261"/>
+<area shape="poly" id="edge40_Node000000_Node000024" title=" " alt="" coords="106,1163,145,1186,189,1207,228,1220,227,1225,187,1212,142,1191,103,1168"/>
+<area shape="rect" id="Node000025" href="$classtests_1_1test__parallel_1_1TestHueAdjusterParInitialization.html" title=" " alt="" coords="226,1285,429,1325"/>
+<area shape="poly" id="edge41_Node000000_Node000025" title=" " alt="" coords="91,1168,131,1221,159,1248,189,1271,227,1287,225,1292,187,1276,155,1252,127,1225,87,1171"/>
+<area shape="rect" id="Node000026" href="$classtests_1_1test__parallel_1_1TestHueAdjusterParVarying.html" title=" " alt="" coords="242,1349,413,1389"/>
+<area shape="poly" id="edge42_Node000000_Node000026" title=" " alt="" coords="84,1170,99,1207,121,1252,151,1298,190,1335,215,1349,243,1359,241,1364,213,1354,186,1339,147,1301,116,1255,94,1210,79,1172"/>
+<area shape="rect" id="Node000027" href="$classtests_1_1test__parallel_1_1TestMonochromeConverterParInitialization.html" title="Test cases for MonochromeConverterPar initialization." alt="" coords="191,1413,463,1453"/>
+<area shape="poly" id="edge43_Node000000_Node000027" title=" " alt="" coords="80,1171,91,1220,111,1282,143,1346,165,1375,190,1399,207,1411,204,1415,186,1403,161,1378,139,1349,106,1284,86,1222,75,1172"/>
+<area shape="rect" id="Node000028" href="$classtests_1_1test__parallel_1_1TestMonochromeConverterParProcessBatch.html" title="Test cases for parallel monochrome batch processing." alt="" coords="188,1477,467,1517"/>
+<area shape="poly" id="edge44_Node000000_Node000028" title=" " alt="" coords="78,1171,85,1232,102,1311,117,1353,136,1393,160,1431,190,1463,206,1475,203,1479,186,1467,156,1434,131,1396,112,1355,97,1312,80,1233,73,1172"/>
+<area shape="rect" id="Node000029" href="$classtests_1_1test__parallel_1_1TestParallelProcessingCorrectness.html" title=" " alt="" coords="219,1541,436,1581"/>
+<area shape="poly" id="edge45_Node000000_Node000029" title=" " alt="" coords="76,1172,79,1243,94,1339,108,1391,128,1441,155,1487,190,1527,220,1546,217,1551,186,1531,151,1490,124,1443,103,1392,89,1340,74,1244,71,1172"/>
+<area shape="rect" id="Node000030" href="$classtests_1_1test__parallel_1_1TestParallelVsThread.html" title=" " alt="" coords="243,1605,412,1645"/>
+<area shape="poly" id="edge46_Node000000_Node000030" title=" " alt="" coords="80,1172,93,1266,116,1392,131,1456,149,1513,168,1560,190,1591,214,1608,243,1618,242,1623,212,1613,186,1595,164,1563,144,1515,126,1457,111,1393,88,1266,75,1172"/>
+<area shape="rect" id="Node000031" href="$classtests_1_1test__sequential_1_1TestHueAdjusterSeqBatch.html" title=" " alt="" coords="233,1669,421,1709"/>
+<area shape="poly" id="edge47_Node000000_Node000031" title=" " alt="" coords="79,1172,90,1278,112,1423,127,1497,145,1564,166,1619,190,1656,210,1670,234,1680,232,1685,208,1675,186,1659,161,1621,140,1566,122,1499,107,1424,85,1278,74,1172"/>
+<area shape="rect" id="Node000032" href="$classtests_1_1test__sequential_1_1TestHueAdjusterSeqInitialization.html" title=" " alt="" coords="224,1733,431,1773"/>
+<area shape="poly" id="edge48_Node000000_Node000032" title=" " alt="" coords="78,1172,88,1289,108,1454,122,1539,141,1615,164,1678,176,1702,190,1719,206,1732,225,1742,223,1746,203,1737,186,1723,172,1704,159,1680,136,1617,117,1540,102,1455,82,1290,73,1172"/>
+<area shape="rect" id="Node000033" href="$classtests_1_1test__sequential_1_1TestHueAdjusterSeqProcess.html" title=" " alt="" coords="233,1797,421,1837"/>
+<area shape="poly" id="edge49_Node000000_Node000033" title=" " alt="" coords="78,1172,85,1301,104,1485,118,1580,137,1666,161,1736,175,1763,190,1783,210,1799,234,1809,232,1814,207,1803,186,1787,170,1766,156,1738,132,1667,113,1581,98,1486,80,1301,72,1172"/>
+<area shape="rect" id="Node000034" href="$classtests_1_1test__sequential_1_1TestHueAdjusterSeqSetHueShift.html" title=" " alt="" coords="226,1861,429,1901"/>
+<area shape="poly" id="edge50_Node000000_Node000034" title=" " alt="" coords="77,1172,83,1312,99,1516,114,1621,133,1716,159,1795,173,1825,190,1847,207,1861,227,1871,225,1876,204,1866,186,1851,169,1828,154,1797,128,1718,109,1621,94,1516,77,1312,72,1172"/>
+<area shape="rect" id="Node000035" href="$classtests_1_1test__sequential_1_1TestMonochromeAndHueSequence.html" title=" " alt="" coords="217,1925,438,1965"/>
+<area shape="poly" id="edge51_Node000000_Node000035" title=" " alt="" coords="77,1172,81,1323,96,1546,110,1661,130,1767,156,1854,172,1887,190,1911,218,1931,215,1936,186,1915,168,1889,151,1855,124,1768,104,1662,90,1547,75,1323,71,1172"/>
+<area shape="rect" id="Node000036" href="$classtests_1_1test__sequential_1_1TestMonochromeConverterSeqInitialization.html" title="Test cases for MonochromeConverterSeq initialization." alt="" coords="189,1989,465,2029"/>
+<area shape="poly" id="edge52_Node000000_Node000036" title=" " alt="" coords="76,1171,78,1334,83,1450,92,1576,105,1702,126,1817,154,1912,171,1948,190,1976,204,1987,200,1991,186,1979,166,1951,149,1914,121,1819,100,1703,86,1577,78,1450,73,1334,71,1171"/>
+<area shape="rect" id="Node000037" href="$classtests_1_1test__sequential_1_1TestMonochromeConverterSeqProcess.html" title="Test cases for MonochromeConverterSeq processing." alt="" coords="205,2053,450,2093"/>
+<area shape="poly" id="edge53_Node000000_Node000037" title=" " alt="" coords="76,1172,76,1345,80,1471,88,1607,101,1743,122,1868,135,1923,151,1971,169,2010,190,2040,206,2053,202,2057,186,2043,165,2013,146,1972,130,1924,117,1869,96,1744,82,1607,75,1471,71,1346,71,1172"/>
+<area shape="rect" id="Node000002" href="$classtests_1_1test__gui__thread__safety_1_1TestConcurrentProcessing.html" title=" " alt="" coords="533,5,772,45"/>
+<area shape="poly" id="edge18_Node000001_Node000002" title=" " alt="" coords="353,185,421,119,465,84,513,55,542,43,544,48,516,60,469,89,425,123,357,189"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__gui__thread__safety_1_1TestHueTabIntegration.html" title=" " alt="" coords="544,69,761,109"/>
+<area shape="poly" id="edge19_Node000001_Node000003" title=" " alt="" coords="372,188,438,152,514,119,552,107,553,112,516,124,440,157,375,192"/>
+<area shape="rect" id="Node000004" href="$classtests_1_1test__gui__thread__safety_1_1TestHueThreadSignals.html" title=" " alt="" coords="545,133,761,173"/>
+<area shape="poly" id="edge20_Node000001_Node000004" title=" " alt="" coords="443,192,550,171,551,176,444,197"/>
+<area shape="rect" id="Node000005" href="$classtests_1_1test__gui__thread__safety_1_1TestImageDataIntegrity.html" title=" " alt="" coords="540,197,765,237"/>
+<area shape="poly" id="edge21_Node000001_Node000005" title=" " alt="" coords="462,215,540,215,540,220,462,220"/>
+<area shape="rect" id="Node000006" href="$classtests_1_1test__gui__thread__safety_1_1TestMonochromeTabIntegration.html" title=" " alt="" coords="515,261,791,301"/>
+<area shape="poly" id="edge22_Node000001_Node000006" title=" " alt="" coords="444,237,551,259,550,264,443,243"/>
+<area shape="rect" id="Node000007" href="$classtests_1_1test__gui__thread__safety_1_1TestMonochromeThreadSignals.html" title=" " alt="" coords="539,326,767,381"/>
+<area shape="poly" id="edge23_Node000001_Node000007" title=" " alt="" coords="457,241,468,247,485,263,493,280,501,296,516,311,540,325,537,329,513,315,497,299,488,282,480,266,465,251,455,245"/>
+<area shape="rect" id="Node000008" href="$classtests_1_1test__gui__thread__safety_1_1TestThreadRaceConditions.html" title=" " alt="" coords="531,405,775,445"/>
+<area shape="poly" id="edge24_Node000001_Node000008" title=" " alt="" coords="461,241,469,247,483,265,491,284,493,321,496,357,503,375,516,391,532,403,529,407,513,395,498,377,491,359,488,321,486,285,479,268,465,251,458,246"/>
+</map>

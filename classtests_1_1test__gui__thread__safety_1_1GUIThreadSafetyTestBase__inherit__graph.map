@@ -1,0 +1,19 @@
+<map id="tests.test_gui_thread_safety.GUIThreadSafetyTestBase" name="tests.test_gui_thread_safety.GUIThreadSafetyTestBase">
+<area shape="rect" id="Node000001" title="Base class for GUI thread safety tests." alt="" coords="192,197,433,237"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__gui__thread__safety_1_1TestConcurrentProcessing.html" title=" " alt="" coords="500,5,739,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,185,396,119,436,84,480,55,507,43,509,48,483,60,439,88,400,122,339,188"/>
+<area shape="rect" id="Node000004" href="$classtests_1_1test__gui__thread__safety_1_1TestHueTabIntegration.html" title=" " alt="" coords="511,69,728,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="353,187,412,152,480,119,516,107,518,112,482,124,414,157,356,192"/>
+<area shape="rect" id="Node000005" href="$classtests_1_1test__gui__thread__safety_1_1TestHueThreadSignals.html" title=" " alt="" coords="511,133,727,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="422,192,522,171,524,176,423,197"/>
+<area shape="rect" id="Node000006" href="$classtests_1_1test__gui__thread__safety_1_1TestImageDataIntegrity.html" title=" " alt="" coords="507,197,732,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="447,215,506,215,506,220,447,220"/>
+<area shape="rect" id="Node000007" href="$classtests_1_1test__gui__thread__safety_1_1TestMonochromeTabIntegration.html" title=" " alt="" coords="481,261,757,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="423,238,524,259,522,264,422,243"/>
+<area shape="rect" id="Node000008" href="$classtests_1_1test__gui__thread__safety_1_1TestMonochromeThreadSignals.html" title=" " alt="" coords="505,326,733,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="357,243,415,278,482,311,516,323,514,328,480,316,413,282,354,247"/>
+<area shape="rect" id="Node000009" href="$classtests_1_1test__gui__thread__safety_1_1TestThreadRaceConditions.html" title=" " alt="" coords="497,405,741,445"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="337,247,397,321,437,359,483,391,508,403,506,408,480,396,434,363,393,324,333,251"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,205,144,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,215,192,215,192,220,157,220"/>
+</map>

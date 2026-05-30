@@ -1,0 +1,7 @@
+<map id="tests.test_gui_thread_safety.TestImageDataIntegrity" name="tests.test_gui_thread_safety.TestImageDataIntegrity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,167,239,207"/>
+<area shape="rect" id="Node000002" href="$classtests_1_1test__gui__thread__safety_1_1GUIThreadSafetyTestBase.html" title="Base class for GUI thread safety tests." alt="" coords="5,79,247,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,133,129,166,123,166,123,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,5,195,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,44,129,79,123,79,123,44"/>
+</map>

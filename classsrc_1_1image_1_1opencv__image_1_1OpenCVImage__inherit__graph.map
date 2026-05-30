@@ -1,0 +1,7 @@
+<map id="src.image.opencv_image.OpenCVImage" name="src.image.opencv_image.OpenCVImage">
+<area shape="rect" id="Node000001" title="OpenCV implementation of ImageBase." alt="" coords="25,152,248,192"/>
+<area shape="rect" id="Node000002" href="$classsrc_1_1common_1_1image__base_1_1ImageBase.html" title="Abstract base class for image operations." alt="" coords="5,79,268,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,118,139,152,134,152,134,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="112,5,161,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,44,139,79,134,79,134,44"/>
+</map>

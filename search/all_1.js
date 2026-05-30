@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['adjust_5fhue_0',['adjust_hue',['../namespacesrc_1_1modules_1_1image__utils.html#a752f0dbdf7f50e9738090a4bb0a0d9c3',1,'src::modules::image_utils']]],
+  ['adjust_5fhue_5fbatch_1',['adjust_hue_batch',['../classsrc_1_1modules_1_1parallel_1_1HueAdjusterPar.html#a63829acf3d2739efb360e9602c1d9048',1,'src.modules.parallel.HueAdjusterPar.adjust_hue_batch()'],['../classsrc_1_1modules_1_1sequential_1_1HueAdjusterSeq.html#a7cb42ea889de9f7cb766557dde1b5616',1,'src.modules.sequential.HueAdjusterSeq.adjust_hue_batch()']]],
+  ['adjust_5fhue_5fvarying_2',['adjust_hue_varying',['../classsrc_1_1modules_1_1parallel_1_1HueAdjusterPar.html#a518e59be116d5a0b4b9f07c406c3bbac',1,'src::modules::parallel::HueAdjusterPar']]],
+  ['adjuster_3',['adjuster',['../classtests_1_1test__parallel_1_1TestHueAdjusterParAdjustBatch.html#af6b5f1039eec8c3b686ee71219198e53',1,'tests.test_parallel.TestHueAdjusterParAdjustBatch.adjuster'],['../classtests_1_1test__parallel_1_1TestHueAdjusterParVarying.html#a282be122fe5ecfef6b8e96e798fc5ebe',1,'tests.test_parallel.TestHueAdjusterParVarying.adjuster'],['../classtests_1_1test__sequential_1_1TestHueAdjusterSeqProcess.html#a67502ac6f33c8ceadf57152551f11522',1,'tests.test_sequential.TestHueAdjusterSeqProcess.adjuster'],['../classtests_1_1test__sequential_1_1TestHueAdjusterSeqBatch.html#a072240859e4716dd5aa033669cd82e57',1,'tests.test_sequential.TestHueAdjusterSeqBatch.adjuster']]],
+  ['app_4',['app',['../classtests_1_1test__gui__thread__safety_1_1GUIThreadSafetyTestBase.html#a619ce210c48bd9dca0bb9c8278f2c709',1,'tests::test_gui_thread_safety::GUIThreadSafetyTestBase']]],
+  ['apply_5fgaussian_5fblur_5',['apply_gaussian_blur',['../classsrc_1_1image_1_1opencv__image_1_1OpenCVImage.html#a5adff857b08f1c00b708e3e81cbb26da',1,'src::image::opencv_image::OpenCVImage']]]
+];
