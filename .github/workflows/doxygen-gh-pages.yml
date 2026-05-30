@@ -20,7 +20,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -33,17 +33,16 @@ jobs:
           sudo apt-get install -y doxygen graphviz
 
       - name: Generate documentation
-        run: |
-          doxygen Doxyfile
+        run: doxygen Doxyfile
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to gh-pages branch
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
           publish_dir: ./docs/html
-          cname: ''
-          force_orphan: false
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'docs: Deploy Doxygen documentation'
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+          commit_message: docs: update Doxygen documentation
